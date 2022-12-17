@@ -11,7 +11,7 @@ salaryMin = 1
 salaryMax = 2
 curr = 3
 area = 4
-timePublic = 5
+timePublic = 5781
 
 currency = {
     "AZN": 35.68,
